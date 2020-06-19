@@ -1,6 +1,8 @@
 # Basic-website-design-in-django
 
 To run this website type command 
+
+
 python manage.py runserver (for windows user)
 
 
